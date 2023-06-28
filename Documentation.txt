@@ -1,0 +1,46 @@
+Documentation
+
+Project Structure:
+
+1. Templates folder:
+
+    This folder contains the HTML templates used in the project. HTML files are located here.
+
+2. Static folder:
+
+    This folder contains static assets such as CSS files, images, and JavaScript files used in the project.
+
+3. .gitignore:
+
+    This file is used to specify files and directories that should be ignored by Git version control. It is necessary to exclude the virtual environment (venv) directory or any other large data that is not relevant to the codebase.
+
+4. Other files:
+
+    These files are located outside the main project directory. They may include datasets used for machine learning purposes or any other relevant files that are not directly part of the codebase.
+
+
+Usage:
+
+1. Download the repository:
+
+    To use the application, download the repository from GitHub. You can do this by clicking the "Download" button on the GitHub repository page or by using Git to clone the repository to your local machine.
+
+2. Open the project in VS Code:
+
+    Open Visual Studio Code (VS Code) and open the downloaded folder containing the project.
+
+3.Terminal:
+
+    Open the terminal in VS Code (View -> Terminal) and navigate to the project directory.
+
+4. Run the application:
+
+    In the terminal, type the following command to run the Python script: python MachineLearningModels_CSC120.py
+    This will execute the main Python script of the application and start the server.
+
+5. Access the application:
+
+    Once the server is running, you can access the application by opening a web browser and entering the appropriate URL. The specific URL or port number may vary depending on the application's configuration.
+    Note: Ensure that you have the necessary dependencies installed and configured properly before running the application. You may need to install additional Python packages or set up a virtual environment as specified in the project's documentation or requirements file.
+
+Note: Ensure that you have the necessary dependencies installed and configured properly before running the application. You may need to install additional Python packages or set up a virtual environment as specified in the project's documentation or requirements file.
