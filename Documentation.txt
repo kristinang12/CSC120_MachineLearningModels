@@ -39,7 +39,6 @@ Usage:
 
 5. Access the application:
 
-    Once the server is running, you can access the application by opening a web browser and entering the appropriate URL. The specific URL or port number may vary depending on the application's configuration.
-    Note: Ensure that you have the necessary dependencies installed and configured properly before running the application. You may need to install additional Python packages or set up a virtual environment as specified in the project's documentation or requirements file.
+    Once the server is running, you can access the application by opening a web browser and entering the appropriate URL "localhost:8080"
 
 Note: There's already an environment packages. Just simply go to terminal and type pip install -r requirements.txt to smoothly run the application.
