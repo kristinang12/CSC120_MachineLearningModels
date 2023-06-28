@@ -34,13 +34,12 @@ Usage:
     Open the terminal in VS Code (View -> Terminal) and navigate to the project directory.
 
 4. Run the application:
-
-    In the terminal, type the following command to run the Python script: python MachineLearningModels_CSC120.py
-    This will execute the main Python script of the application and start the server.
+    In the terminal, navigate to the project directory.
+    Type the command python MachineLearningModels_CSC120.py to run the Python script and start the application's server.
 
 5. Access the application:
 
     Once the server is running, you can access the application by opening a web browser and entering the appropriate URL. The specific URL or port number may vary depending on the application's configuration.
     Note: Ensure that you have the necessary dependencies installed and configured properly before running the application. You may need to install additional Python packages or set up a virtual environment as specified in the project's documentation or requirements file.
 
-Note: Ensure that you have the necessary dependencies installed and configured properly before running the application. You may need to install additional Python packages or set up a virtual environment as specified in the project's documentation or requirements file.
+Note: There's already an environment packages. Just simply go to terminal and type pip install -r requirements.txt to smoothly run the application.
